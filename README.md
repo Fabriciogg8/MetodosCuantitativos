@@ -46,59 +46,60 @@ El estudio se desarrolló en un entorno controlado de 9 parcelas, con observaci�
 
 ```bash
 git clone https://github.com/Fabriciogg8/trigo_inferencia_estadistica.git
-Instalá las dependencias necesarias:
+```
 
-bash
-Copiar
-Editar
+2. Instalá las dependencias necesarias:
+
+```bash
 pip install -r requirements.txt
-Ejecutá el notebook:
+```
 
-bash
-Copiar
-Editar
+3. Ejecutá el notebook:
+
+```bash
 jupyter notebook MetodosCuantitativos.ipynb
-📋 Requisitos
-Python 3.7+
+```
 
-Librerías principales:
+## 📋 Requisitos
+* **Python 3.7+**
+* **Librerías principales:**
 
-pandas
+    * pandas
 
-numpy
+    * numpy
 
-matplotlib
+    * matplotlib
 
-seaborn
+    * seaborn
 
-scipy
+    * scipy
 
-📈 Aplicaciones
+## 📈 Aplicaciones
 Este análisis puede ser útil para:
 
-Ingenieros agrónomos que deseen evaluar experimentalmente el rendimiento de cultivos
+* Ingenieros agrónomos que deseen evaluar experimentalmente el rendimiento de cultivos
 
-Investigadores en fitopatología (roya del tallo)
+* Investigadores en fitopatología (roya del tallo)
 
-Estudiantes de métodos cuantitativos o bioestadística
+* Estudiantes de métodos cuantitativos o bioestadística
 
-Científicos de datos aplicados al agro
+* Científicos de datos aplicados al agro
 
-🎯 Resultados Clave
-Estimación puntual del rendimiento medio: 1.93 t/ha
+## 🎯 Resultados Clave
+* Estimación puntual del rendimiento medio: 1.93 t/ha
 
-Intervalo de confianza para la media: [1.69, 2.18] t/ha
+* Intervalo de confianza para la media: [1.69, 2.18] t/ha
 
-IC 95% para la varianza poblacional: [0.05, 0.37] (t/ha)²
+* IC 95% para la varianza poblacional: [0.05, 0.37] (t/ha)²
 
-Proporción estimada de infección: 20% ± 5.8%
+* Proporción estimada de infección: 20% ± 5.8%
 
-Visualización intuitiva de resultados inferenciales
+* Visualización intuitiva de resultados inferenciales
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Podés abrir un issue o enviar un pull request.
 
-📧 Contacto
-Fabricio González
+## 📧 Contacto
+**Fabricio González**
 📧 fgonzalezguasque@gmail.com
 🔗 LinkedIn
